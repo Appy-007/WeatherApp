@@ -1,0 +1,26 @@
+body{
+   
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   text-align: center;
+
+}
+.wrap {
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .background {
+    opacity: 0.6;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+  }
+  
+  .content {
+    position: relative;
+  }
+footer{
+    padding-top: 28%;
+}
